@@ -1,0 +1,24 @@
+# Python (fichiers temporaires)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnement virtuel (si tu en as un)
+venv/
+env/
+.env
+
+# Streamlit (fichiers de config locale)
+.streamlit/
+
+# Jupyter Notebook (historique des checkpoints)
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Données volumineuses (Optionnel)
+# Si ton heart.csv est très gros ou si tu as des logs
+*.log
