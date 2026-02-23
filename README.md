@@ -1,7 +1,7 @@
 # 🏥 Heart-Guard : Aide au Diagnostic Cardiaque
 
 <p align="center">
-  <img src="assets/Capture1.png" width="800" alt="Aperçu de l'interface Heart-Guard">
+  <img src="assets/Capture1.PNG" width="800" alt="Aperçu de l'interface Heart-Guard">
 </p>
 
 **Heart-Guard** est une application web intelligente conçue pour évaluer le risque de pathologie cardiaque chez un patient. 
