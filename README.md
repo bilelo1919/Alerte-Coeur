@@ -10,7 +10,7 @@ Ce projet est une **démonstration technique** dont le but est d'illustrer ma m�
 ---
 
 ## 🎯 Objectif du Projet
-Ce dépôt présente mes compétences de Data Scientist et ma capacité à livrer un projet de bout en bout :
+Ce dépôt présente mes compétences en Python et ma capacité à livrer un projet de bout en bout :
 - **Manipulation de Code** : Écriture d'un code propre, modulaire et commenté.
 - **Architecture Propre** : Séparation stricte entre la logique de calcul (`src/`), les données (`data/`) et l'interface utilisateur (`app.py`).
 - **Pipeline ML Complet** : De l'analyse exploratoire (EDA) via Notebooks jusqu'à l'entraînement du modèle (Régression Logistique).
